@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I’m Dan 👋
 
-<!--
-**pdxdiver/pdxdiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Semi-retired technical architect exploring AI-assisted software engineering,
+### underwater photography, and real-world systems.
 
-Here are some ideas to get you started:
+I build **production-grade systems**, not demos — with a focus on:
+- Spec-Driven Development (SDD)
+- AI-assisted workflows (LLMs + deterministic engineering)
+- Cloud-native and edge systems
+- Human-centered tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CritterMagic
+**AI-powered underwater photo management and species identification**
+- AWS CDK, Lambda, Bedrock, Vector Search
+- Vision + metadata pipelines
+- Lightroom / Photoshop integration (WIP)
+
+🔗 https://pdxdiver.io  
+📦 https://github.com/yourname/crittermagic
+
+---
+
+### 🔹 Vehicle Telemetry Event Bus
+**Offline-first ESP32 telemetry with local + cloud rules engines**
+- MQTT (Home Assistant)
+- AWS IoT Core + low-cost serverless
+- OpenSpec-aligned architecture
+
+📦 https://github.com/yourname/vehicle-telemetry
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Specs before code
+- Determinism over vibe coding
+- Observability is a feature
+- AI is a collaborator, not an oracle
+
+📖 [AI Engineering Notes](https://pdxdiver.io/posts/aiengineering/)
+
+---
+
+## 🛠 Tech I Use
+
+**Languages**  
+TypeScript · Python · Bash · PowerShell  
+
+**Cloud & Infra**  
+AWS CDK · Lambda · DynamoDB · S3 · CloudFront · IoT  
+
+**AI & Data**  
+RAG · Vector DBs · Bedrock · Claude · GPT  
+
+**Edge / IoT**  
+ESP32 · MQTT · Home Assistant  
+
+---
+
+## 📬 Get in Touch
+
+- Blog: https://pdxdiver.io
+- GitHub Discussions welcome
