@@ -1,15 +1,14 @@
 # pdxDiver here. 👋
 
-### Too much time on my hands, so I am exploring AI-assisted software engineering,
-### underwater photography and edge vehicle telemetry
+### Too much time on my hands, so I am exploring AI-assisted software engineering, underwater photography and edge vehicle telemetry
 
-Interests:
+### Interests:
 - Spec-Driven Development (SDD)
 - AI-assisted workflows (LLMs + deterministic engineering)
 - Cloud-native and edge-based IOT
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
 ### 🔹 CritterMagic
 **AI-powered underwater photo management and species identification**
@@ -19,7 +18,7 @@ Interests:
 - Lightroom Creative Cloud integrations
 - Photo portfolio management
 
-🔗 https://critterflow.com  
+- https://critterflow.com  
 
 ---
 
@@ -30,14 +29,20 @@ Interests:
 - Vehicle Location (GPS)
 - Vehicle Temperature
 - Experiments with Webasto STC2000 heater
+  
+---
 
-## 🧠 Blog
-📖 [AI Engineering Notes](https://pdxdiver.io/posts/aiengineering/)
+## 🔹 AI Engineering Notes
+- [Context Engineering - AI Engineering 12 Factors](https://pdxdiver.io/posts/aiengineering/)
 
 ---
 
-## 📬 Get in Touch
-
+## 🔹 Other sites
 - Blog: https://pdxdiver.io
 - Photo Porfolio https://photos.pdxdiver.io
+  
+---
+
+## 🔹 Get in Touch
+
 - GitHub Discussions welcome
