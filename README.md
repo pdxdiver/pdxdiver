@@ -1,67 +1,43 @@
-# Hi, I’m Dan 👋
+# pdxDiver here. 👋
 
-### Semi-retired technical architect exploring AI-assisted software engineering,
-### underwater photography, and real-world systems.
+### Too much time on my hands, so I am exploring AI-assisted software engineering,
+### underwater photography and edge vehicle telemetry
 
-I build **production-grade systems**, not demos — with a focus on:
+Interests:
 - Spec-Driven Development (SDD)
 - AI-assisted workflows (LLMs + deterministic engineering)
-- Cloud-native and edge systems
-- Human-centered tooling
-
+- Cloud-native and edge-based IOT
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 CritterMagic
 **AI-powered underwater photo management and species identification**
-- AWS CDK, Lambda, Bedrock, Vector Search
-- Vision + metadata pipelines
-- Lightroom / Photoshop integration (WIP)
+- Underwater creature identification using LLM
+- Image clean up workflows using LLM
+- Lightroom Classic Plugin
+- Lightroom Creative Cloud integrations
+- Photo portfolio management
 
-🔗 https://pdxdiver.io  
-📦 https://github.com/yourname/crittermagic
-
----
-
-### 🔹 Vehicle Telemetry Event Bus
-**Offline-first ESP32 telemetry with local + cloud rules engines**
-- MQTT (Home Assistant)
-- AWS IoT Core + low-cost serverless
-- OpenSpec-aligned architecture
-
-📦 https://github.com/yourname/vehicle-telemetry
+🔗 https://critterflow.com  
 
 ---
 
-## 🧠 Engineering Philosophy
+### 🔹 Vehicle Telemetry Event Hub
+**ESP32 based sensor monitor**
+- Freshwater water tank levels
+- Battery BMS
+- Vehicle Location (GPS)
+- Vehicle Temperature
+- Experiments with Webasto STC2000 heater
 
-- Specs before code
-- Determinism over vibe coding
-- Observability is a feature
-- AI is a collaborator, not an oracle
-
+## 🧠 Blog
 📖 [AI Engineering Notes](https://pdxdiver.io/posts/aiengineering/)
-
----
-
-## 🛠 Tech I Use
-
-**Languages**  
-TypeScript · Python · Bash · PowerShell  
-
-**Cloud & Infra**  
-AWS CDK · Lambda · DynamoDB · S3 · CloudFront · IoT  
-
-**AI & Data**  
-RAG · Vector DBs · Bedrock · Claude · GPT  
-
-**Edge / IoT**  
-ESP32 · MQTT · Home Assistant  
 
 ---
 
 ## 📬 Get in Touch
 
 - Blog: https://pdxdiver.io
+- Photo Porfolio https://photos.pdxdiver.io
 - GitHub Discussions welcome
